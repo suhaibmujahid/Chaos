@@ -1,4 +1,4 @@
-# Chaos - yes
+# Chaos
 #### Visualizations connecting chaos theory, fractals, and  the logistic map!
 ###### Written by [Jonny Hyman](https://www.jonnyhyman.com), 2020
 
