@@ -18,6 +18,8 @@ Code structure is roughly:
 """
 
 
+
+
 from vispy.color import get_colormaps, BaseColormap
 from vispy import app, scene, io
 import vispy
