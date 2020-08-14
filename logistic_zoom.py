@@ -16,6 +16,7 @@ Code structure is roughly:
     - runtime stuff
 """
 
+
 from vispy import app, gloo
 import vispy.plot as vp
 import vispy.io as io
